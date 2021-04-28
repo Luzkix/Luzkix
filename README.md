@@ -1,4 +1,4 @@
-#**Hello everyone, this is mine main Green Fox repository with various homeworks as i learned Java during Foundation and Orientation phases:**
+#**Hello everyone, welcome to my main Green Fox repository with various homeworks as i learned Java during Foundation and Orientation phases:**
 
 https://github.com/Luzkix/Luzkix - the repo contains week by week homeworks as i progressed throw the first 2 modules of Green Fox Academy Junior Developer Course 
 
