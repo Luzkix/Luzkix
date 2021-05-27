@@ -22,4 +22,5 @@ https://github.com/Luzkix/reddit-app-exercise - add your own posts and like/disl
 
 https://luzkix.github.io - Before I started with the full course I participated on a month lenght Green Fox coding camp which focused on html and basics of JavaSript. The link actually represents a web presentation of exercises completed within StayHome coding camp. Final project was to develop simple web photo presentation using html/css/javascript. If you are interested in actual code, you can find it here: https://github.com/Luzkix/luzkix.github.io
 
+**Other:**
 https://github.com/Luzkix/Luzkix - the repo contains various week by week homeworks as i progressed throw the first 2 phases of Green Fox Academy Junior Developer Course 
