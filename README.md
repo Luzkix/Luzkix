@@ -1,4 +1,4 @@
-# **Hello everyone, welcome to my main repository with various exercises/homeworks as i learned especially Java during a year long Green Fox Academy Junior Developer Course**
+# **Hello everyone, welcome to my main repository with various Java related projects/exercises accomplished during a year long Junior Developer Course within Green Fox Academy**
 
 **In final Project phase it was all about teamwork and buildig a "big" Spring RESTful application, with many endpoints, a lot of logic and implementations of new technologies, and of course testing...a lot of testing...** 
 
