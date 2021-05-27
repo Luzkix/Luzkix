@@ -2,7 +2,7 @@
 
 **In final Project phase it was all about teamwork and buildig a "big" Spring RESTful application, with many endpoints, a lot of logic and implementations of new technologies, and of course testing...a lot of testing...** 
 
-Output from this project phase are basically 2 projects - one big application, which was developed by 4 of us, read about it bellow. Unfortunatelly this repo is not public for the time being (ask me for code if you want to check it). Second project was individual project, a kind of "refreshing" exercise before final exam, where we could individually practice a lot of techniques we learned from the main project. 
+Output from this project phase were basically 2 projects - one big application, which was developed by 4 of us, read about it bellow. Unfortunatelly this repo is not public for the time being (ask me for code if you want to check it). Second project was individual project, a kind of "refreshing" exercise before final exam, where we could individually practice a lot of techniques we learned from the main project. 
 
 ** Individual project details: **
 
