@@ -17,7 +17,7 @@ https://github.com/Luzkix/alcool-tribes-backend (currently only private access) 
 
 The app itself is a backend RESTful app simulating a very basic RPG game, which have players, kingdoms, various buildings(townhall, farm, mine, academy), troops, resources (gold, food), etc. We implemented Spring Security based on bearer token authentication (JWT tokens), database versioning based on Flyway, players need to verify their email address, events on all endpoints are automatically logged into console using Interceptors, player´s avatar (picture - MultipartFile) can be uploaded to/downloaded from predefined project folder, resources are automatically updated based on the last update time, 2 kingdoms can battle each other, factories were used for creation of testing objects, etc.
 
-**Other mini projects showcase:**
+**Other mini projects:**
 
 https://reddit-app-exercise.herokuapp.com/ - add your own posts and like/dislike posts from others! This miniapp focuses especially on html part, mainly on practicing with Thymeleaf templates, so it has a basic frontend implemented. Main backend business logic lies in voting system, so you can give just one like/dislike to each post (not own ofcourse). Posts are than saved in database. There is no spring security or any advanced stuff, but it is fun to play with it  :-) 
 On git you can find the code related to this app here: https://github.com/Luzkix/Luzkix/tree/master/week-19-Reddit-Extended-ToDo/day-3-reddit (note - its not a separate git repo, it is a part of week homeworks)
