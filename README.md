@@ -19,7 +19,8 @@ The app itself is a backend RESTful app simulating a very basic RPG game, which 
 
 **Other mini projects showcase:**
 
-https://reddit-app-exercise.herokuapp.com/ - add your own posts and like/dislike posts from others! This miniapp focuses especially on html part, mainly on practicing with Thymeleaf templates, so it has a basic frontend implemented. Main backend business logic lies in voting system, so you can give just one like/dislike to each post (not own ofcourse). Posts are than saved in database. There is no spring security or any advanced stuff, but it is fun to play with it :-) On git you can find the code related to this app here: https://github.com/Luzkix/Luzkix/tree/master/week-19-Reddit-Extended-ToDo/day-3-reddit (note - its not a separate git repo, it is a part of week homeworks)
+https://reddit-app-exercise.herokuapp.com/ - add your own posts and like/dislike posts from others! This miniapp focuses especially on html part, mainly on practicing with Thymeleaf templates, so it has a basic frontend implemented. Main backend business logic lies in voting system, so you can give just one like/dislike to each post (not own ofcourse). Posts are than saved in database. There is no spring security or any advanced stuff, but it is fun to play with it  :-) 
+On git you can find the code related to this app here: https://github.com/Luzkix/Luzkix/tree/master/week-19-Reddit-Extended-ToDo/day-3-reddit (note - its not a separate git repo, it is a part of week homeworks)
 
 https://luzkix.github.io - Before I started with the full course I participated on a month lenght Green Fox coding camp which focused on html and basics of JavaSript. The link actually represents a web presentation of exercises completed within StayHome coding camp. Final project was to develop simple web photo presentation using html/css/javascript. If you are interested in actual code, you can find it here: https://github.com/Luzkix/luzkix.github.io
 
