@@ -1,6 +1,6 @@
 # **Hello everyone, welcome to my main repository with various Java related projects/exercises accomplished during a year long Junior Developer Course within Green Fox Academy**
 
-In project phase (last module of bootcamp) we trained creating Spring Boot REST applications. The output were basically 2 projects - individual project, a kind of "refreshing" exercise before final exam, where we could individually practice a lot of techniques we learned from the main project. Main project was a bigger Spring Boot application which was developed in a team (by 4 of us), read about it bellow.
+In project phase (last module of bootcamp) we trained building of Spring Boot REST applications. The output were basically 2 projects - individual project, a kind of "refreshing" exercise before final exam, where we could individually practice a lot of techniques we learned in the main project. Main project then was a bigger Spring Boot application (a kind of RPG game backend) which was developed in a team by 4 of us, read about it bellow.
 
 - **GreenBay application** - my own small REST API application, a simple eBay clone where you can sell items
 
