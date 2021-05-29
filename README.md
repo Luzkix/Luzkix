@@ -6,6 +6,8 @@ Output from this project phase were basically 2 projects - one big application, 
 
 **Individual project details:**
 
+- GreenBay application - individual 2 weeks project
+
 https://github.com/Luzkix/FinalExamProject_greenBay - The project was about creating the greenBay application that is a simple eBay clone. We can login as a user to sell and buy items. It is Spring JSON based Web API application (REST API). It uses Spring security and token based authentication, it is connected to SQL database (it uses Flyway versioning system) and also deployed to Heroku. It uses Junit for testing (Integration and Unit tests). For detailed specification please see the README file in the project folder.
 
 The application is deployed on Heroku: https://greenbay-app-exercise.herokuapp.com/ , so you can play with it using e.g. Postman. For basic description of implemented API and what you can do with endpoints please check "REST API documentation for greenBay app.pdf" located in project folder. 
