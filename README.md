@@ -4,15 +4,13 @@
 
 Output from this project phase were basically 2 projects - one big application, which was developed by 4 of us, read about it bellow. Unfortunatelly this repo is not public for the time being (ask me for code if you want to check it). Second project was individual project, a kind of "refreshing" exercise before final exam, where we could individually practice a lot of techniques we learned from the main project. 
 
-**Individual project details:**
-
-- GreenBay application - individual 2 weeks project
+- **GreenBay application** - individual 2 weeks project
 
 https://github.com/Luzkix/FinalExamProject_greenBay - The project was about creating the greenBay application that is a simple eBay clone. We can login as a user to sell and buy items. It is Spring JSON based Web API application (REST API). It uses Spring security and token based authentication, it is connected to SQL database (it uses Flyway versioning system) and also deployed to Heroku. It uses Junit for testing (Integration and Unit tests). For detailed specification please see the README file in the project folder.
 
 The application is deployed on Heroku: https://greenbay-app-exercise.herokuapp.com/ , so you can play with it using e.g. Postman. For basic description of implemented API and what you can do with endpoints please check "REST API documentation for greenBay app.pdf" located in project folder. 
 
-**Main project details:**
+- **RPG game backend application** - main team project in project phase
 
 https://github.com/Luzkix/alcool-tribes-backend (currently only private access) - the app is a result of 3-4 months of work of 4 developers (including me). There was like 40-50 user stories to be implemented, often overlaping so we could also learn from others. We worked in 2-week sprints. We used git branches, did mutual code reviews, trying to simulate work as if we worked in company. 
 
