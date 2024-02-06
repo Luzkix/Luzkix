@@ -1,12 +1,16 @@
-# **Hello everyone, welcome to my main repository with various Java related projects/exercises accomplished during a year long Junior Developer Course within Green Fox Academy**
+# **Hello everyone, welcome to my main repository with various Java related miniprojects**
+- **E-ink Bitcoin Price Checker** - easy to use web application/webpage which shows actual price of Bitcoin in USD/EUR
 
+https://github.com/Luzkix/FinalExamProject_greenBay - This miniproject is about building easy to use web application/webpage which shows actual price of Bitcoin in USD/EUR. You can also choose to change main display into night mode if you like. The view is very simplistic, widescreen optimised (I build it primarily for my e-ink reader Likebook Mars, however every phone/tablet in widescreen should be fine). Data are updated once per 30 sec based on Coinbase API. Underlying technologies are java application using Spring Boot which is connected to simple postres database. Table(s) in DB are created using Flyway migrations. Frontend is very simplistic, basic HTML + CSS + few scripts in javascript + Thymeleaf templates. Docker is also used to create containerized app which can be easily deployed everywhere (in my case it is running on my Synology NAS). You can test the result using this link (if you are lucky :-)) luzkix.synology.me:100
+
+# **exercises accomplished during a year long Junior Developer Course within Green Fox Academy***
 In project phase (last module of bootcamp) we trained building of Spring Boot REST applications. The output were basically 2 projects - individual project, a kind of "refreshing" exercise before final exam, where we could individually practice a lot of techniques we learned in the main project. Main project then was a bigger Spring Boot application (a kind of RPG game backend) which was developed in a team by 4 of us, read about it bellow.
 
 - **GreenBay application** - my own small REST API application, a simple eBay clone where you can sell items
 
 https://github.com/Luzkix/FinalExamProject_greenBay - The project was about creating the GreenBay application that is a simple eBay clone. We can login as a user to sell and buy items. It is Spring JSON based Web API application (REST API). It uses Spring security and token based authentication, it is connected to SQL database (it uses Flyway versioning system) and also deployed to Heroku. It uses Junit for testing (Integration and Unit tests). For detailed specification please see the README file in the project folder.
 
-The application is deployed on Heroku: https://greenbay-app-exercise.herokuapp.com/ , so you can play with it using e.g. Postman. For basic description of implemented API and what you can do with endpoints please check "REST API documentation for greenBay app.pdf" located in project folder. 
+For basic description of implemented API and what you can do with endpoints please check "REST API documentation for greenBay app.pdf" located in project folder. 
 
 - **RPG game backend application** - main team project in project phase, RESTfull application, where players have their kingdoms, buildings...
 
