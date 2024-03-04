@@ -1,5 +1,11 @@
 # **Hello everyone, welcome to my main repository with various Java related miniprojects**
 
+- **Car Rental app** - simple REST api app for for administration of cars, customers and car rents.  
+
+https://github.com/Luzkix/car-rental - this miniproject is about creating an RESTFUL app which would allow basic administration of car rentals. You can add/get/edit or delete entities like car, customer or rental. There is also implemented automatic price calculation functionality based on the number of rented days, daily rate and rate coeficient (which is derived from the class of rented car). The app was created solely for practicing purposes (practicing Spring Boot, Spring Data JPA and Hibernate). 
+Used technology stack: Spring Boot 3.2.3, Compatibility - Java 17, Postgre database, h2 inmemory database, Swagger documentation
+
+
 - **E-ink Bitcoin Price Checker** - easy to use web application/webpage which shows actual price of Bitcoin in USD/EUR
 
 https://github.com/Luzkix/einkBtcPriceChecker_Java - This miniproject is about building easy to use web application/webpage which shows actual price of Bitcoin in USD/EUR. You can also choose to change main display into night mode if you like. The view is very simplistic, widescreen optimised (I build it primarily for my e-ink reader Likebook Mars, however every phone/tablet in widescreen should be fine). Data are updated once per 30 sec based on Coinbase API. Underlying technologies are java application using Spring Boot which is connected to simple postres database. Table(s) in DB are created using Flyway migrations. Frontend is very simplistic, basic HTML + CSS + few scripts in javascript + Thymeleaf templates. Docker is also used to create containerized app which can be easily deployed everywhere (in my case it is running on my Synology NAS). You can test the result using this link (if you are lucky :-)) http://luzkix.synology.me:100
